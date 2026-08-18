@@ -4,9 +4,10 @@ version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
-  sdk: ^3.12.0-203.0.dev
+  sdk: ^3.7.2-203.0.dev
 
 dependencies:
+  mysql_client: ^0.0.27
   shelf: ^1.4.2
   shelf_router: ^1.1.2
 
